@@ -40,6 +40,11 @@ void EmptyLinkFunctionForGeneratedCodeCharacterBase() {}
 		P_THIS->AquireAbility(Z_Param_AbilityToAquire);
 		P_NATIVE_END;
 	}
+	static FName NAME_ACharacterBase_BP_Die = FName(TEXT("BP_Die"));
+	void ACharacterBase::BP_Die()
+	{
+		ProcessEvent(FindFunctionChecked(NAME_ACharacterBase_BP_Die),NULL);
+	}
 	static FName NAME_ACharacterBase_BP_OnHealthChanged = FName(TEXT("BP_OnHealthChanged"));
 	void ACharacterBase::BP_OnHealthChanged(float Health, float MaxHealth)
 	{
@@ -87,6 +92,30 @@ void EmptyLinkFunctionForGeneratedCodeCharacterBase() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACharacterBase_AquireAbility_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ACharacterBase_BP_Die_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACharacterBase_BP_Die_Statics::Function_MetaDataParams[] = {
+		{ "Category", "CharacterBase" },
+		{ "DisplayName", "Die" },
+		{ "ModuleRelativePath", "Public/CharacterBase.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacterBase_BP_Die_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacterBase, nullptr, "BP_Die", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacterBase_BP_Die_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ACharacterBase_BP_Die_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACharacterBase_BP_Die()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACharacterBase_BP_Die_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -189,6 +218,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacterBase() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ACharacterBase_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_ACharacterBase_AquireAbility, "AquireAbility" }, // 1699721847
+		{ &Z_Construct_UFunction_ACharacterBase_BP_Die, "BP_Die" }, // 1338813693
 		{ &Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged, "BP_OnHealthChanged" }, // 3963305701
 		{ &Z_Construct_UFunction_ACharacterBase_OnHealthChanged, "OnHealthChanged" }, // 1758876258
 	};
@@ -249,7 +279,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacterBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACharacterBase, 608366911);
+	IMPLEMENT_CLASS(ACharacterBase, 4005778289);
 	template<> ABILITYSYSTEM_API UClass* StaticClass<ACharacterBase>()
 	{
 		return ACharacterBase::StaticClass();
