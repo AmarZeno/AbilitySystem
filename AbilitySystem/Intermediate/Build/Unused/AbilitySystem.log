@@ -1,16 +1,12 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Projects\Ability System).
-  Parsing headers for AbilitySystemEditor
-    Running UnrealHeaderTool "D:\Projects\Ability System\AbilitySystem\AbilitySystem.uproject" "D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\AbilitySystemEditor\Development\AbilitySystemEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\amarz\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for AbilitySystemEditor in 7.436293 seconds
   Building AbilitySystemEditor...
   Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 5 actions with 8 processes...
-    [1/5] CharacterBase.cpp
-    [2/5] CharacterBase.gen.cpp
-    [3/5] UE4Editor-AbilitySystem-0003.lib
-       Creating library D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-0003.lib and object D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-0003.exp
-    [4/5] UE4Editor-AbilitySystem-0003.dll
-       Creating library D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-0003.suppressed.lib and object D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-0003.suppressed.exp
-    [5/5] AbilitySystemEditor.target
-  Total time in Parallel executor: 5.07 seconds
-  Total execution time: 13.54 seconds
+  Building 4 actions with 8 processes...
+    [1/4] CharacterBase.cpp
+    [2/4] UE4Editor-AbilitySystem-0008.lib
+       Creating library D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-0008.lib and object D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-0008.exp
+    [3/4] UE4Editor-AbilitySystem-0008.dll
+       Creating library D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-0008.suppressed.lib and object D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-0008.suppressed.exp
+    [4/4] AbilitySystemEditor.target
+  Total time in Parallel executor: 4.22 seconds
+  Total execution time: 5.41 seconds

@@ -61,3 +61,5 @@ D:\Unreal Engine\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Source\Gamepla
 D:\Unreal Engine\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemReplicationProxyInterface.generated.h
 D:\Unreal Engine\UE_4.25\Engine\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UE4Editor\Inc\GameplayAbilities\AbilitySystemComponent.generated.h
 D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Inc\AbilitySystem\CharacterBase.generated.h
+D:\Projects\Ability System\AbilitySystem\Source\AbilitySystem\Public\AttributeSetBase.h
+D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Inc\AbilitySystem\AttributeSetBase.generated.h
