@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\AbilitySystem.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{0C5ED6DF-B038-41FE-B11C-28327076D80F}</UniqueIdentifier>
+      <UniqueIdentifier>{CDCBEA3A-A0B1-4CDA-B532-C95856B9B8D8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\AbilitySystem.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{D98F76FC-D05C-40A4-9FD7-FDD05D422D79}</UniqueIdentifier>
+      <UniqueIdentifier>{23B5478B-55EC-4C6A-9296-CDE45D1C1B2D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\AbilitySystem">
-      <UniqueIdentifier>{4A5349FE-1849-4B5D-8F92-A0E1E7CC1979}</UniqueIdentifier>
+      <UniqueIdentifier>{89D1FC47-F476-427B-A0F7-B3CC8FE450A9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\AbilitySystem\AbilitySystem.Build.cs">
       <Filter>Source\AbilitySystem</Filter>
@@ -66,7 +66,7 @@
       <Filter>Source\AbilitySystem</Filter>
     </ClInclude>
     <Filter Include="Source\AbilitySystem\Private">
-      <UniqueIdentifier>{4383C8BF-3017-4991-A780-1B0A2D566B33}</UniqueIdentifier>
+      <UniqueIdentifier>{F036DBE9-BEE6-4606-BA8A-F9D2C14AE168}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\AbilitySystem\Private\CharacterBase.cpp">
       <Filter>Source\AbilitySystem\Private</Filter>
@@ -75,7 +75,7 @@
       <Filter>Source\AbilitySystem\Private</Filter>
     </ClCompile>
     <Filter Include="Source\AbilitySystem\Public">
-      <UniqueIdentifier>{F3D7D743-ABF1-44A5-9B4A-2591DF88E4C4}</UniqueIdentifier>
+      <UniqueIdentifier>{C895BE23-AAC7-4EF0-B659-0241DD5612A6}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\AbilitySystem\Public\CharacterBase.h">
       <Filter>Source\AbilitySystem\Public</Filter>
