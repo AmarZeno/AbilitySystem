@@ -7,6 +7,8 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\AbilitySystemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\CharacterBase.cpp.obj"
+"D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\PlayerControllerBase.cpp.obj"
 "D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\AbilitySystem.cpp.obj"
 "D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\AbilitySystemCharacter.cpp.obj"
 "D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\AbilitySystemGameMode.cpp.obj"
@@ -17,6 +19,8 @@
 "D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\AbilitySystemGameMode.gen.cpp.obj"
 "D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\AbilitySystemHUD.gen.cpp.obj"
 "D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\AbilitySystemProjectile.gen.cpp.obj"
+"D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\CharacterBase.gen.cpp.obj"
+"D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\PlayerControllerBase.gen.cpp.obj"
 "D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\Default.rc2.res"
 /OUT:"D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem.lib"
 /INCLUDE:IMPLEMENT_MODULE_AbilitySystem
