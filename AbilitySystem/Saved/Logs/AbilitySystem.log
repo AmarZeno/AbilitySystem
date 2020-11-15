@@ -4811,3 +4811,1398 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.15-08.59.30:017][256]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/BP_CharacterBaseBFB669894E3238E1D2B403849D72CDDB.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset'
 [2020.11.15-08.59.30:042][256]AssetCheck: New page: Asset Save: BP_CharacterBase
 [2020.11.15-08.59.30:042][256]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2020.11.15-09.02.31:266][922]LogUObjectHash: Compacting FUObjectHashTables data took   8.59ms
+[2020.11.15-09.02.31:318][922]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap0E8403014F66DCFC2C8DF1B4151A923D.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.11.15-09.02.32:154][922]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap_BuiltDataD529F5CE4BCE05CA2D6AB8914047DD86.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.15-09.02.32:191][922]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.15-09.02.32:191][922]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.15-09.02.32:191][922]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.15-09.02.36:818][175]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.11.15-09.02.52:481][175]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.11.15-09.03.27:268][803]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.11.15-09.03.53:498][153]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Characters/Animation/AM_Shinbi_Melee.AM_Shinbi_Melee
+[2020.11.15-09.03.53:570][153]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.11.15-09.03.53:782][153]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.15-09.03.53:790][153]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.11.15-09.03.53:828][153]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.15-09.03.54:609][153]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.11.15-09.04.21:026][576]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.15-09.04.46:294][ 78]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-09.04.46:294][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-09.04.49:917][290]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-09.04.49:917][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-09.06.49:068][858]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/AM_Shinbi_MeleeCF2C0357477A9093BCF94893E8D1CE43.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/AM_Shinbi_Melee.uasset'
+[2020.11.15-09.06.49:103][858]AssetCheck: New page: Asset Save: AM_Shinbi_Melee
+[2020.11.15-09.06.49:103][858]LogContentValidation: Display: Validating AnimMontage /Game/Blueprints/Characters/Animation/AM_Shinbi_Melee.AM_Shinbi_Melee
+[2020.11.15-09.07.00:011][476]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Animation/ANS_MeleeAttack.ANS_MeleeAttack
+[2020.11.15-09.07.13:620][ 26]BlueprintLog: New page: Compile ANS_MeleeAttack
+[2020.11.15-09.07.13:807][ 26]LogUObjectHash: Compacting FUObjectHashTables data took  11.30ms
+[2020.11.15-09.07.42:487][637]BlueprintLog: New page: Compile ANS_MeleeAttack
+[2020.11.15-09.07.42:572][637]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2020.11.15-09.08.15:554][583]BlueprintLog: New page: Compile ANS_MeleeAttack
+[2020.11.15-09.08.15:634][583]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2020.11.15-09.08.54:617][682]BlueprintLog: New page: Compile ANS_MeleeAttack
+[2020.11.15-09.08.54:696][682]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2020.11.15-09.09.13:607][125]BlueprintLog: New page: Compile ANS_MeleeAttack
+[2020.11.15-09.09.13:687][125]LogUObjectHash: Compacting FUObjectHashTables data took   8.03ms
+[2020.11.15-09.09.14:101][147]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ANS_MeleeAttack56468C4D4429DC1D3F5C44B1967B24BC.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ANS_MeleeAttack.uasset'
+[2020.11.15-09.09.14:137][147]AssetCheck: New page: Asset Save: ANS_MeleeAttack
+[2020.11.15-09.09.14:137][147]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Animation/ANS_MeleeAttack.ANS_MeleeAttack
+[2020.11.15-09.09.41:198][742]BlueprintLog: New page: Compile ANS_MeleeAttack
+[2020.11.15-09.09.41:279][742]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2020.11.15-09.09.41:995][781]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ANS_MeleeAttack8CB6C2C048015FE1A69170A72EFF7884.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ANS_MeleeAttack.uasset'
+[2020.11.15-09.09.42:024][781]AssetCheck: New page: Asset Save: ANS_MeleeAttack
+[2020.11.15-09.09.42:024][781]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Animation/ANS_MeleeAttack.ANS_MeleeAttack
+[2020.11.15-09.10.20:453][636]BlueprintLog: New page: Compile ANS_MeleeAttack
+[2020.11.15-09.10.20:454][636]LogBlueprint: Error: [Compiler ANS_MeleeAttack] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2020.11.15-09.10.20:534][636]LogUObjectHash: Compacting FUObjectHashTables data took   9.39ms
+[2020.11.15-09.10.21:245][674]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ANS_MeleeAttackA778978949A2D114F528E9A2756191E5.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ANS_MeleeAttack.uasset'
+[2020.11.15-09.10.21:274][674]AssetCheck: New page: Asset Save: ANS_MeleeAttack
+[2020.11.15-09.10.21:274][674]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Animation/ANS_MeleeAttack.ANS_MeleeAttack
+[2020.11.15-09.10.29:212][ 16]BlueprintLog: New page: Compile ANS_MeleeAttack
+[2020.11.15-09.10.29:292][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2020.11.15-09.10.30:076][ 60]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ANS_MeleeAttackBB9A5F174FEFEA45B1E0E7B687064C8E.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ANS_MeleeAttack.uasset'
+[2020.11.15-09.10.30:109][ 60]AssetCheck: New page: Asset Save: ANS_MeleeAttack
+[2020.11.15-09.10.30:109][ 60]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Animation/ANS_MeleeAttack.ANS_MeleeAttack
+[2020.11.15-09.10.36:512][348]BlueprintLog: New page: Compile ANS_MeleeAttack
+[2020.11.15-09.10.36:603][348]LogUObjectHash: Compacting FUObjectHashTables data took   9.06ms
+[2020.11.15-09.10.43:087][467]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ANS_MeleeAttack743477C2407EBE9A5ACEC899279E6378.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ANS_MeleeAttack.uasset'
+[2020.11.15-09.10.43:114][467]AssetCheck: New page: Asset Save: ANS_MeleeAttack
+[2020.11.15-09.10.43:114][467]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Animation/ANS_MeleeAttack.ANS_MeleeAttack
+[2020.11.15-09.10.47:733][744]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-09.10.47:755][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-09.10.47:755][744]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 11:10:47 PM)
+[2020.11.15-09.10.47:756][744]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-09.10.47:772][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016274s)
+[2020.11.15-09.10.47:774][744]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-09.10.47:774][744]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C2FA84DE00), frame # 171744
+[2020.11.15-09.10.47:774][744]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C27AA9C400), frame # 171744
+[2020.11.15-09.10.47:774][744]LogPlayLevel: PIE: World Init took: (0.002151s)
+[2020.11.15-09.10.47:774][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018651s)
+[2020.11.15-09.10.47:844][744]LogUObjectHash: Compacting FUObjectHashTables data took   9.49ms
+[2020.11.15-09.10.47:847][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-09.10.47:847][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-09.10.47:847][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-09.10.47:847][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-09.10.47:847][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-09.10.47:847][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-09.10.47:847][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-09.10.47:847][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-09.10.47:848][744]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-09.10.47:848][744]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-09.10.47:857][744]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-09.10.47:857][744]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-09.10.47:882][744]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-09.10.47:882][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-09.10.47:882][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-09.10.47:883][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-09.10.47:883][744]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-09.10.47:902][744]LogInit: FAudioDevice initialized.
+[2020.11.15-09.10.47:911][744]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-09.10.47:921][744]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.15-04.10.47
+[2020.11.15-09.10.47:922][744]LogWorld: Bringing up level for play took: 0.009751
+[2020.11.15-09.10.47:922][744]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.11.15-09.10.47:933][744]PIE: Server logged in
+[2020.11.15-09.10.47:935][744]PIE: Play in editor total start time 0.181 seconds.
+[2020.11.15-09.10.59:354][424]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.10.59:454][430]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.00:272][479]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.00:305][481]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.00:372][485]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.04:801][750]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.04:884][755]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.07:500][912]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.07:601][918]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.10:134][ 70]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.10:168][ 72]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.10:218][ 75]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.12:435][208]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.12:518][213]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.15:335][382]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.16:706][464]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.18:656][581]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.18:740][586]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.33:000][441]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.33:084][446]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.34:383][524]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.34:417][526]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.34:484][530]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.35:585][596]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.35:685][602]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.36:401][645]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.39:369][823]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.39:469][829]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.40:352][882]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.11.40:452][888]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy
+[2020.11.15-09.12.08:264][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-09.12.08:264][551]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-09.12.08:264][551]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-09.12.08:265][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-09.12.08:278][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-09.12.08:287][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-09.12.08:368][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-09.12.08:369][551]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C27AA9C400), frame # 176551
+[2020.11.15-09.12.08:369][551]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C2FA84DE00), frame # 176551
+[2020.11.15-09.12.08:376][551]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2020.11.15-09.12.08:428][552]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.11.15-09.12.27:635][579]BlueprintLog: New page: Compile BP_CharacterBase
+[2020.11.15-09.12.27:768][579]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.11.15-09.12.28:226][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_CharacterBase" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset" SILENT=true
+[2020.11.15-09.12.28:262][600]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/BP_CharacterBase9FBF40984F9C7C6FE2B2E096D9084E60.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2020.11.15-09.12.28:296][600]AssetCheck: New page: Asset Save: BP_CharacterBase
+[2020.11.15-09.12.28:296][600]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2020.11.15-09.12.42:963][ 75]BlueprintLog: New page: Compile BP_CharacterBase
+[2020.11.15-09.12.43:110][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2020.11.15-09.12.43:641][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_CharacterBase" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset" SILENT=true
+[2020.11.15-09.12.43:673][101]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/BP_CharacterBaseB46F36D74D0186BB241933AE0AEC8AAE.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2020.11.15-09.12.43:716][101]AssetCheck: New page: Asset Save: BP_CharacterBase
+[2020.11.15-09.12.43:716][101]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2020.11.15-09.13.31:955][991]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2020.11.15-09.13.31:955][991]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2020.11.15-09.13.37:368][313]BlueprintLog: New page: Compile BP_CharacterBase
+[2020.11.15-09.13.37:518][313]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2020.11.15-09.13.38:072][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_CharacterBase" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset" SILENT=true
+[2020.11.15-09.13.38:101][340]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/BP_CharacterBase3073E6CD486D799A35647B830A1B394C.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2020.11.15-09.13.38:138][340]AssetCheck: New page: Asset Save: BP_CharacterBase
+[2020.11.15-09.13.38:138][340]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2020.11.15-09.14.35:489][730]BlueprintLog: New page: Compile BP_CharacterBase
+[2020.11.15-09.14.35:627][730]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2020.11.15-09.14.36:142][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_CharacterBase" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset" SILENT=true
+[2020.11.15-09.14.36:173][754]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/BP_CharacterBase2A6917FA4681A851625F4C8222A167AF.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2020.11.15-09.14.36:205][754]AssetCheck: New page: Asset Save: BP_CharacterBase
+[2020.11.15-09.14.36:205][754]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2020.11.15-09.14.52:632][731]BlueprintLog: New page: Compile BP_CharacterBase
+[2020.11.15-09.14.52:777][731]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2020.11.15-09.14.53:268][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_CharacterBase" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset" SILENT=true
+[2020.11.15-09.14.53:300][754]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/BP_CharacterBase4EEC055E4757A434578013A23EF52A6B.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2020.11.15-09.14.53:327][754]AssetCheck: New page: Asset Save: BP_CharacterBase
+[2020.11.15-09.14.53:327][754]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2020.11.15-09.15.37:467][178]BlueprintLog: New page: Compile BP_CharacterBase
+[2020.11.15-09.15.37:604][178]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2020.11.15-09.15.38:194][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_CharacterBase" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset" SILENT=true
+[2020.11.15-09.15.38:227][207]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/BP_CharacterBase33509F31409A001777D06396C054D8D1.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2020.11.15-09.15.38:257][207]AssetCheck: New page: Asset Save: BP_CharacterBase
+[2020.11.15-09.15.38:257][207]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2020.11.15-09.16.31:380][475]BlueprintLog: New page: Compile GA_Melee
+[2020.11.15-09.16.31:443][475]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2020.11.15-09.16.32:076][509]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/GA_Melee15C5B426471F6BDCEAB814A71A7C03AE.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Abilities/Melee/GA_Melee.uasset'
+[2020.11.15-09.16.32:103][509]AssetCheck: New page: Asset Save: GA_Melee
+[2020.11.15-09.16.32:103][509]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Abilities/Melee/GA_Melee.GA_Melee
+[2020.11.15-09.16.58:495][746]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2020.11.15-09.16.58:541][746]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap_Auto27931986446323BB7BE120493A3727AEA.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.11.15-09.16.58:547][746]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.119
+[2020.11.15-09.16.58:547][746]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.119
+[2020.11.15-09.17.44:910][442]BlueprintLog: New page: Compile GA_Melee
+[2020.11.15-09.17.44:976][442]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2020.11.15-09.17.45:661][479]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/GA_MeleeA7545104441A66303204E2B341CC9945.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Abilities/Melee/GA_Melee.uasset'
+[2020.11.15-09.17.45:687][479]AssetCheck: New page: Asset Save: GA_Melee
+[2020.11.15-09.17.45:687][479]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Abilities/Melee/GA_Melee.GA_Melee
+[2020.11.15-09.17.49:327][692]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2020.11.15-09.17.49:361][692]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMapF139D4A34ED4351DC1FF7686D780F3B2.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.11.15-09.17.49:362][692]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap', retrying in .5s...
+[2020.11.15-09.17.49:864][692]LogFileManager: Warning: DeleteFile recovered during retry!
+[2020.11.15-09.17.50:737][692]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap_BuiltData7D453F2A44C06C8DAFFDF9B8C5F67D5F.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.15-09.17.50:779][692]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.15-09.17.50:779][692]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.15-09.17.50:779][692]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.15-09.17.51:259][721]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-09.17.51:278][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-09.17.51:278][721]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 11:17:51 PM)
+[2020.11.15-09.17.51:306][721]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-09.17.51:319][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012556s)
+[2020.11.15-09.17.51:320][721]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-09.17.51:320][721]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C29ABD1800), frame # 192721
+[2020.11.15-09.17.51:320][721]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C23834F240), frame # 192721
+[2020.11.15-09.17.51:321][721]LogPlayLevel: PIE: World Init took: (0.001836s)
+[2020.11.15-09.17.51:321][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014655s)
+[2020.11.15-09.17.51:379][721]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.11.15-09.17.51:381][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-09.17.51:381][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-09.17.51:381][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-09.17.51:381][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-09.17.51:381][721]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-09.17.51:381][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-09.17.51:381][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-09.17.51:381][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-09.17.51:381][721]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-09.17.51:381][721]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-09.17.51:389][721]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-09.17.51:389][721]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-09.17.51:413][721]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-09.17.51:413][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-09.17.51:413][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-09.17.51:413][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-09.17.51:413][721]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-09.17.51:415][721]LogInit: FAudioDevice initialized.
+[2020.11.15-09.17.51:435][721]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-09.17.51:443][721]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.15-04.17.51
+[2020.11.15-09.17.51:443][721]LogWorld: Bringing up level for play took: 0.007407
+[2020.11.15-09.17.51:443][721]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.11.15-09.17.51:452][721]PIE: Server logged in
+[2020.11.15-09.17.51:453][721]PIE: Play in editor total start time 0.177 seconds.
+[2020.11.15-09.17.54:843][923]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.17.54:843][923]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.17.54:926][928]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.17.54:926][928]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.17.57:210][ 65]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.17.57:210][ 65]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.17.57:210][ 65]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.17.57:210][ 65]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.17.57:293][ 70]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.17.57:293][ 70]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.17.57:293][ 70]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.17.57:293][ 70]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.00:577][267]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.00:578][267]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.00:578][267]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.00:578][267]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.00:578][267]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.00:578][267]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.00:578][267]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.00:678][273]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.00:679][273]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.00:679][273]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.00:679][273]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.00:679][273]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.00:679][273]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.00:679][273]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.05:112][539]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.05:112][539]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.05:112][539]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.05:112][539]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.05:112][539]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.05:112][539]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.05:112][539]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.05:112][539]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.05:112][539]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.05:195][544]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.05:195][544]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.05:195][544]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.05:195][544]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.05:195][544]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.05:195][544]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.05:195][544]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.05:196][544]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.05:196][544]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.08:178][723]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.08:178][723]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.08:178][723]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.08:178][723]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.08:178][723]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.08:178][723]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.08:178][723]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.08:178][723]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.08:178][723]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.08:178][723]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.08:178][723]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.08:212][725]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.08:212][725]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.08:212][725]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.08:212][725]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.08:212][725]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.08:212][725]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.08:212][725]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.08:212][725]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.08:212][725]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.08:212][725]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.08:212][725]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.08:228][726]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.08:228][726]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.08:228][726]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.08:228][726]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.08:228][726]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.08:228][726]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.08:228][726]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.08:228][726]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.08:228][726]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.08:228][726]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.08:228][726]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.08:279][729]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.08:279][729]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.08:279][729]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.08:279][729]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.08:279][729]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.08:279][729]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.08:279][729]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.08:279][729]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.08:279][729]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.08:279][729]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.08:279][729]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.09:212][785]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.09:312][791]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.11:663][932]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.13:163][ 22]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.13:261][ 28]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.13:262][ 28]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.14:212][ 85]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.14:312][ 91]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.14:313][ 91]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.15:745][177]Set new viewmode: Wireframe
+[2020.11.15-09.18.16:446][219]Set new viewmode: Wireframe
+[2020.11.15-09.18.16:928][248]Set new viewmode: Wireframe
+[2020.11.15-09.18.17:278][269]Set new viewmode: Unlit
+[2020.11.15-09.18.17:829][302]Set new viewmode: Lit
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_16] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_15] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.19:880][425]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.21:446][519]LogBlueprintUserMessages: [GA_Melee_C_17] BP_Enemy
+[2020.11.15-09.18.21:446][519]LogBlueprintUserMessages: [GA_Melee_C_16] BP_Enemy
+[2020.11.15-09.18.21:446][519]LogBlueprintUserMessages: [GA_Melee_C_15] BP_Enemy
+[2020.11.15-09.18.21:446][519]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.18.21:446][519]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.21:446][519]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.21:446][519]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.21:446][519]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.21:447][519]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.21:447][519]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.21:447][519]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.21:447][519]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.21:447][519]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.21:447][519]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.21:447][519]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.21:447][519]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.21:447][519]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.21:447][519]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_18] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_17] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_16] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_15] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.22:530][584]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_19] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_18] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_17] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_16] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_15] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.24:063][676]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.25:296][750]LogBlueprintUserMessages: [GA_Melee_C_20] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_19] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_18] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_17] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_16] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_15] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.25:297][750]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_22] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_21] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_20] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_19] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_18] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_17] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_16] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_15] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.27:847][903]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_23] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_22] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_21] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_20] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_19] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_18] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_17] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_16] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_15] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.29:547][  5]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.31:963][150]LogBlueprintUserMessages: [GA_Melee_C_25] BP_Enemy
+[2020.11.15-09.18.31:963][150]LogBlueprintUserMessages: [GA_Melee_C_24] BP_Enemy
+[2020.11.15-09.18.31:963][150]LogBlueprintUserMessages: [GA_Melee_C_23] BP_Enemy
+[2020.11.15-09.18.31:963][150]LogBlueprintUserMessages: [GA_Melee_C_22] BP_Enemy
+[2020.11.15-09.18.31:963][150]LogBlueprintUserMessages: [GA_Melee_C_21] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_20] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_19] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_18] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_17] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_16] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_15] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.31:964][150]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_25] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_24] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_23] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_22] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_21] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_20] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_19] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_18] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_17] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_16] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_15] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.18.32:047][155]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.18.32:048][155]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.18.32:048][155]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.18.32:048][155]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.18.32:048][155]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.18.32:048][155]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.18.32:048][155]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.18.33:417][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-09.18.33:417][235]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-09.18.33:417][235]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-09.18.33:418][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-09.18.33:433][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-09.18.33:447][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-09.18.33:538][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-09.18.33:540][235]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C23834F240), frame # 195235
+[2020.11.15-09.18.33:540][235]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C29ABD1800), frame # 195235
+[2020.11.15-09.18.33:546][235]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.11.15-09.18.33:595][236]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.11.15-09.19.05:248][994]LogSlate: Window 'Color Picker' being destroyed
+[2020.11.15-09.19.07:152][105]BlueprintLog: New page: Compile GA_Melee
+[2020.11.15-09.19.07:211][105]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2020.11.15-09.19.07:785][135]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/GA_Melee4FC72B7D445382319656F18B61C2A038.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Abilities/Melee/GA_Melee.uasset'
+[2020.11.15-09.19.07:818][135]AssetCheck: New page: Asset Save: GA_Melee
+[2020.11.15-09.19.07:818][135]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Abilities/Melee/GA_Melee.GA_Melee
+[2020.11.15-09.19.09:764][251]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-09.19.09:785][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-09.19.09:785][251]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 11:19:09 PM)
+[2020.11.15-09.19.09:785][251]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-09.19.09:800][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015197s)
+[2020.11.15-09.19.09:802][251]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-09.19.09:802][251]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C207A43000), frame # 196251
+[2020.11.15-09.19.09:802][251]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C24F99C900), frame # 196251
+[2020.11.15-09.19.09:802][251]LogPlayLevel: PIE: World Init took: (0.002257s)
+[2020.11.15-09.19.09:803][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017696s)
+[2020.11.15-09.19.09:867][251]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2020.11.15-09.19.09:869][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-09.19.09:869][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-09.19.09:869][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-09.19.09:869][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-09.19.09:869][251]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-09.19.09:869][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-09.19.09:869][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-09.19.09:869][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-09.19.09:870][251]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-09.19.09:870][251]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-09.19.09:879][251]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-09.19.09:880][251]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-09.19.09:903][251]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-09.19.09:903][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-09.19.09:903][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-09.19.09:903][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-09.19.09:904][251]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-09.19.09:918][251]LogInit: FAudioDevice initialized.
+[2020.11.15-09.19.09:929][251]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-09.19.09:937][251]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.15-04.19.09
+[2020.11.15-09.19.09:938][251]LogWorld: Bringing up level for play took: 0.007639
+[2020.11.15-09.19.09:938][251]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.11.15-09.19.09:947][251]PIE: Server logged in
+[2020.11.15-09.19.09:949][251]PIE: Play in editor total start time 0.165 seconds.
+[2020.11.15-09.19.16:406][635]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.16:406][635]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.17:673][711]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.17:673][711]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.17:673][711]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.18:723][774]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.19.18:723][774]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.18:723][774]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.18:723][774]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.19:673][831]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.19.19:673][831]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.19.19:673][831]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.19:673][831]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.19:673][831]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.20:673][891]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.19.20:673][891]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.19.20:673][891]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.19.20:673][891]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.20:673][891]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.20:673][891]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.22:507][  1]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.19.22:507][  1]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.19.22:507][  1]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.19.22:507][  1]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.19.22:507][  1]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.22:507][  1]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.22:507][  1]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.23:023][ 32]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.19.23:023][ 32]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.19.23:023][ 32]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.19.23:023][ 32]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.19.23:023][ 32]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.19.23:023][ 32]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.23:023][ 32]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.23:023][ 32]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.24:190][102]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.19.24:190][102]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.19.24:190][102]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.19.24:190][102]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.19.24:190][102]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.19.24:190][102]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.19.24:190][102]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.24:190][102]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.24:190][102]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.25:173][161]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.19.25:173][161]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.19.25:173][161]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.19.25:173][161]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.19.25:173][161]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.19.25:173][161]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.19.25:174][161]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.19.25:174][161]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.25:174][161]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.25:174][161]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.27:458][298]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.19.27:458][298]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.19.27:458][298]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.19.27:458][298]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.19.27:458][298]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.19.27:458][298]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.19.27:458][298]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.19.27:458][298]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.19.27:458][298]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.19.27:458][298]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.27:458][298]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.27:459][298]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.30:307][469]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.19.30:307][469]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.19.30:307][469]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.19.30:307][469]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.19.30:307][469]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.19.30:307][469]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.19.30:307][469]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.19.30:307][469]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.19.30:307][469]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.19.30:308][469]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.19.30:308][469]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.19.30:308][469]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.30:308][469]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.30:308][469]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.30:392][474]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.19.32:708][613]LogBlueprintUserMessages: [GA_Melee_C_0] BP_Enemy
+[2020.11.15-09.19.34:668][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-09.19.34:668][729]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-09.19.34:668][729]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-09.19.34:669][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-09.19.34:687][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-09.19.34:701][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-09.19.34:802][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-09.19.34:803][729]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C24F99C900), frame # 197729
+[2020.11.15-09.19.34:803][729]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C207A43000), frame # 197729
+[2020.11.15-09.19.34:809][729]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.11.15-09.19.34:855][730]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.11.15-09.21.12:323][ 30]BlueprintLog: New page: Compile GA_Melee
+[2020.11.15-09.21.12:384][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2020.11.15-09.21.12:806][ 52]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/GA_MeleeD086F628400F5B9AFE6316B6106EE727.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Abilities/Melee/GA_Melee.uasset'
+[2020.11.15-09.21.12:832][ 52]AssetCheck: New page: Asset Save: GA_Melee
+[2020.11.15-09.21.12:832][ 52]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Abilities/Melee/GA_Melee.GA_Melee
+[2020.11.15-09.21.25:713][304]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-09.21.25:733][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-09.21.25:733][304]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 11:21:25 PM)
+[2020.11.15-09.21.25:733][304]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-09.21.25:749][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015790s)
+[2020.11.15-09.21.25:751][304]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-09.21.25:751][304]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C21DD12E00), frame # 199304
+[2020.11.15-09.21.25:751][304]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C2FA7FF740), frame # 199304
+[2020.11.15-09.21.25:751][304]LogPlayLevel: PIE: World Init took: (0.002323s)
+[2020.11.15-09.21.25:751][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018380s)
+[2020.11.15-09.21.25:814][304]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2020.11.15-09.21.25:816][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-09.21.25:816][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-09.21.25:816][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-09.21.25:817][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-09.21.25:817][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-09.21.25:817][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-09.21.25:817][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-09.21.25:817][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-09.21.25:818][304]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-09.21.25:818][304]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-09.21.25:827][304]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-09.21.25:827][304]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-09.21.25:849][304]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-09.21.25:849][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-09.21.25:849][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-09.21.25:849][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-09.21.25:849][304]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-09.21.25:865][304]LogInit: FAudioDevice initialized.
+[2020.11.15-09.21.25:872][304]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-09.21.25:880][304]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.15-04.21.25
+[2020.11.15-09.21.25:880][304]LogWorld: Bringing up level for play took: 0.007409
+[2020.11.15-09.21.25:880][304]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.11.15-09.21.25:890][304]PIE: Server logged in
+[2020.11.15-09.21.25:891][304]PIE: Play in editor total start time 0.16 seconds.
+[2020.11.15-09.21.29:899][543]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.21.29:982][548]LogBlueprintUserMessages: [GA_Melee_C_1] BP_Enemy
+[2020.11.15-09.21.30:916][604]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.21.31:000][609]LogBlueprintUserMessages: [GA_Melee_C_2] BP_Enemy
+[2020.11.15-09.21.31:783][656]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.21.31:866][661]LogBlueprintUserMessages: [GA_Melee_C_3] BP_Enemy
+[2020.11.15-09.21.32:716][712]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.21.32:733][713]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.21.32:800][717]LogBlueprintUserMessages: [GA_Melee_C_4] BP_Enemy
+[2020.11.15-09.21.33:533][761]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.21.33:617][766]LogBlueprintUserMessages: [GA_Melee_C_5] BP_Enemy
+[2020.11.15-09.21.34:283][806]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.21.34:367][811]LogBlueprintUserMessages: [GA_Melee_C_6] BP_Enemy
+[2020.11.15-09.21.34:883][842]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.21.34:966][847]LogBlueprintUserMessages: [GA_Melee_C_7] BP_Enemy
+[2020.11.15-09.21.37:966][ 27]LogBlueprintUserMessages: [GA_Melee_C_8] BP_Enemy
+[2020.11.15-09.21.40:583][184]LogBlueprintUserMessages: [GA_Melee_C_9] BP_Enemy
+[2020.11.15-09.21.43:367][351]LogBlueprintUserMessages: [GA_Melee_C_10] BP_Enemy
+[2020.11.15-09.21.46:134][517]LogBlueprintUserMessages: [GA_Melee_C_11] BP_Enemy
+[2020.11.15-09.21.48:284][646]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.21.48:368][651]LogBlueprintUserMessages: [GA_Melee_C_12] BP_Enemy
+[2020.11.15-09.21.49:268][705]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.21.49:351][710]LogBlueprintUserMessages: [GA_Melee_C_13] BP_Enemy
+[2020.11.15-09.21.49:835][739]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.21.49:917][744]LogBlueprintUserMessages: [GA_Melee_C_14] BP_Enemy
+[2020.11.15-09.21.52:644][906]LogBlueprintUserMessages: [GA_Melee_C_15] BP_Enemy
+[2020.11.15-09.21.52:727][911]LogBlueprintUserMessages: [GA_Melee_C_15] BP_Enemy
+[2020.11.15-09.21.55:496][ 77]LogBlueprintUserMessages: [GA_Melee_C_16] BP_Enemy
+[2020.11.15-09.21.55:579][ 82]LogBlueprintUserMessages: [GA_Melee_C_16] BP_Enemy
+[2020.11.15-09.21.56:899][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-09.21.56:899][159]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-09.21.56:899][159]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-09.21.56:899][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-09.21.56:915][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-09.21.56:928][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-09.21.56:989][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-09.21.57:017][159]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C2FA7FF740), frame # 201159
+[2020.11.15-09.21.57:017][159]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C21DD12E00), frame # 201159
+[2020.11.15-09.21.57:023][159]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.11.15-09.21.57:069][160]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.11.15-09.22.20:283][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_CharacterBase" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset" SILENT=true
+[2020.11.15-09.22.20:324][421]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/BP_CharacterBaseDA46D02C42DDBDAFAB9754A40AB9362A.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2020.11.15-09.22.20:358][421]AssetCheck: New page: Asset Save: BP_CharacterBase
+[2020.11.15-09.22.20:358][421]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2020.11.15-09.22.26:131][765]BlueprintLog: New page: Compile BP_CharacterBase
+[2020.11.15-09.22.26:265][765]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.11.15-09.29.27:794][126]LogUObjectHash: Compacting FUObjectHashTables data took   8.74ms
+[2020.11.15-09.29.27:837][126]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap_Auto39234998F440E22D2CD2B68B59D318F52.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2020.11.15-09.29.27:839][126]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.119
+[2020.11.15-09.29.27:839][126]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.119
+[2020.11.15-17.03.14:225][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.11.15-17.03.14:279][257]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap380E303A413D143DD9ADFFA75D775A30.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.11.15-17.03.14:279][257]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap', retrying in .5s...
+[2020.11.15-17.03.14:782][257]LogFileManager: Warning: DeleteFile recovered during retry!
+[2020.11.15-17.03.15:705][257]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap_BuiltData96F4D5FF4F933D3A1CB26A9022DF2B65.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.15-17.03.15:743][257]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.15-17.03.15:743][257]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.15-17.03.15:743][257]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.15-17.05.19:266][263]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.11.15-17.05.27:571][263]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.11.15-17.05.35:211][716]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Abilities/Melee/GE_Melee_Damage.GE_Melee_Damage
+[2020.11.15-17.06.16:324][154]BlueprintLog: New page: Compile GE_Melee_Damage
+[2020.11.15-17.06.16:419][154]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2020.11.15-17.06.16:872][175]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/GE_Melee_Damage45E6F8BA46C02BC246EABE88AF6F85A6.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Abilities/Melee/GE_Melee_Damage.uasset'
+[2020.11.15-17.06.16:907][175]AssetCheck: New page: Asset Save: GE_Melee_Damage
+[2020.11.15-17.06.16:907][175]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Abilities/Melee/GE_Melee_Damage.GE_Melee_Damage
+[2020.11.15-17.07.31:423][641]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2020.11.15-17.07.31:423][641]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2020.11.15-17.07.36:217][928]BlueprintLog: New page: Compile GE_Melee_Damage
+[2020.11.15-17.07.36:317][928]LogUObjectHash: Compacting FUObjectHashTables data took   8.21ms
+[2020.11.15-17.07.38:300][ 41]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/GE_Melee_Damage3599D76F46F488700BDCA7B3C1CECE06.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Abilities/Melee/GE_Melee_Damage.uasset'
+[2020.11.15-17.07.38:326][ 41]AssetCheck: New page: Asset Save: GE_Melee_Damage
+[2020.11.15-17.07.38:326][ 41]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Abilities/Melee/GE_Melee_Damage.GE_Melee_Damage
+[2020.11.15-17.09.28:837][ 88]BlueprintLog: New page: Compile GA_Melee
+[2020.11.15-17.09.28:902][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2020.11.15-17.09.29:526][121]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/GA_Melee916592144FE54309916C6BBD46B052C3.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Abilities/Melee/GA_Melee.uasset'
+[2020.11.15-17.09.29:554][121]AssetCheck: New page: Asset Save: GA_Melee
+[2020.11.15-17.09.29:554][121]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Abilities/Melee/GA_Melee.GA_Melee
+[2020.11.15-17.13.02:598][668]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.15-17.13.10:488][136]BlueprintLog: New page: Compile GA_Melee
+[2020.11.15-17.13.10:556][136]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2020.11.15-17.13.11:062][163]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/GA_Melee87CCFACC4C45E7FEF9714BAFED3A4CD5.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Abilities/Melee/GA_Melee.uasset'
+[2020.11.15-17.13.11:090][163]AssetCheck: New page: Asset Save: GA_Melee
+[2020.11.15-17.13.11:090][163]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Abilities/Melee/GA_Melee.GA_Melee
+[2020.11.15-17.24.06:405][237]LogHotReload: New module detected: UE4Editor-AbilitySystem-0012.dll
+[2020.11.15-17.24.07:441][241]LogHotReload: Starting Hot-Reload from IDE
+[2020.11.15-17.24.07:547][241]LogContentBrowser: Native class hierarchy updated for 'AbilitySystem' in 0.0008 seconds. Added 7 classes and 3 folders.
+[2020.11.15-17.24.07:555][241]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.11.15-17.24.07:845][241]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 3519 classes and 833 folders.
+[2020.11.15-17.24.07:850][241]Display: HotReload took  0.4s.
+[2020.11.15-17.24.12:288][399]Candidate modules for hot reload:
+[2020.11.15-17.24.12:288][399]  AbilitySystem
+[2020.11.15-17.24.12:288][399]Launching UnrealBuildTool... [D:/Unreal Engine/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=AbilitySystem,6646 AbilitySystemEditor Win64 Development -Project="D:/Projects/Ability System/AbilitySystem/AbilitySystem.uproject" "D:/Projects/Ability System/AbilitySystem/AbilitySystem.uproject"  -IgnoreJunk]
+[2020.11.15-17.24.12:290][399]Warning: Starting HotReload took  0.0s.
+[2020.11.15-17.24.14:686][528]CompilerResultsLog: New page: Compilation - Nov 15, 2020, 7:24:14 AM
+[2020.11.15-17.24.14:686][528]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Projects\Ability System).
+[2020.11.15-17.24.14:686][528]CompilerResultsLog: Building AbilitySystemEditor...
+[2020.11.15-17.24.14:686][528]CompilerResultsLog: Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.11.15-17.24.14:686][528]CompilerResultsLog: Building 3 actions with 8 processes...
+[2020.11.15-17.24.14:686][528]CompilerResultsLog:   [1/3] UE4Editor-AbilitySystem-6646.lib
+[2020.11.15-17.24.14:686][528]CompilerResultsLog:      Creating library D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-6646.lib and object D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-6646.exp
+[2020.11.15-17.24.14:686][528]CompilerResultsLog:   [2/3] UE4Editor-AbilitySystem-6646.dll
+[2020.11.15-17.24.14:686][528]CompilerResultsLog:      Creating library D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-6646.suppressed.lib and object D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\UE4Editor-AbilitySystem-6646.suppressed.exp
+[2020.11.15-17.24.14:686][528]CompilerResultsLog:   [3/3] AbilitySystemEditor.target
+[2020.11.15-17.24.14:686][528]CompilerResultsLog: Total time in Parallel executor: 1.07 seconds
+[2020.11.15-17.24.14:686][528]CompilerResultsLog: Total execution time: 2.17 seconds
+[2020.11.15-17.24.14:686][528]LogMainFrame: MainFrame: Module compiling took 2.404 seconds
+[2020.11.15-17.24.14:766][528]LogContentBrowser: Native class hierarchy updated for 'AbilitySystem' in 0.0005 seconds. Added 7 classes and 3 folders.
+[2020.11.15-17.24.14:776][528]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.11.15-17.24.15:072][528]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 3519 classes and 833 folders.
+[2020.11.15-17.24.15:072][528]Display: HotReload took  2.8s.
+[2020.11.15-17.25.48:365][785]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-17.25.48:393][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-17.25.48:393][785]PIE: New page: PIE session: FirstPersonExampleMap (Nov 15, 2020, 7:25:48 AM)
+[2020.11.15-17.25.48:393][785]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.25.48:410][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016503s)
+[2020.11.15-17.25.48:412][785]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-17.25.48:412][785]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3156EDE00), frame # 320785
+[2020.11.15-17.25.48:412][785]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C314A67240), frame # 320785
+[2020.11.15-17.25.48:412][785]LogPlayLevel: PIE: World Init took: (0.002243s)
+[2020.11.15-17.25.48:413][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019057s)
+[2020.11.15-17.25.48:582][785]LogUObjectHash: Compacting FUObjectHashTables data took  10.99ms
+[2020.11.15-17.25.48:593][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-17.25.48:593][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-17.25.48:593][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-17.25.48:593][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-17.25.48:593][785]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-17.25.48:593][785]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-17.25.48:593][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-17.25.48:594][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-17.25.48:594][785]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-17.25.48:594][785]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-17.25.48:603][785]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-17.25.48:603][785]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-17.25.48:625][785]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-17.25.48:626][785]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-17.25.48:626][785]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-17.25.48:626][785]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-17.25.48:626][785]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-17.25.48:644][785]LogInit: FAudioDevice initialized.
+[2020.11.15-17.25.48:654][785]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-17.25.48:662][785]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.15-12.25.48
+[2020.11.15-17.25.48:663][785]LogWorld: Bringing up level for play took: 0.007750
+[2020.11.15-17.25.48:663][785]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.11.15-17.25.48:672][785]PIE: Server logged in
+[2020.11.15-17.25.48:673][785]PIE: Play in editor total start time 0.285 seconds.
+[2020.11.15-17.25.56:212][193]LogTemp: Warning: Ouch, I took some damage, now my health is : 180.000000
+[2020.11.15-17.25.56:317][196]LogTemp: Warning: Ouch, I took some damage, now my health is : 160.000000
+[2020.11.15-17.25.59:858][409]LogTemp: Warning: Ouch, I took some damage, now my health is : 140.000000
+[2020.11.15-17.25.59:942][414]LogTemp: Warning: Ouch, I took some damage, now my health is : 120.000000
+[2020.11.15-17.26.21:950][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.26.21:950][558]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.26.21:951][558]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-17.26.21:951][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.26.21:962][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-17.26.21:987][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.26.22:058][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.26.22:081][558]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3156EDE00), frame # 322558
+[2020.11.15-17.26.22:081][558]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C314A67240), frame # 322558
+[2020.11.15-17.26.22:090][558]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2020.11.15-17.26.22:131][559]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.11.15-17.27.12:637][523]BlueprintLog: New page: Compile BP_CharacterBase
+[2020.11.15-17.27.12:784][523]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2020.11.15-17.27.13:262][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_CharacterBase" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset" SILENT=true
+[2020.11.15-17.27.13:314][543]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/BP_CharacterBase2C8E95824C2BAD9611B4CF9109D68D13.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2020.11.15-17.27.13:346][543]AssetCheck: New page: Asset Save: BP_CharacterBase
+[2020.11.15-17.27.13:346][543]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2020.11.15-17.27.15:084][639]LogUObjectHash: Compacting FUObjectHashTables data took   9.71ms
+[2020.11.15-17.27.15:170][639]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMapC602E49840C0624BE9004EA7B8808C8A.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.11.15-17.27.16:020][639]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap_BuiltData75D7712441A528622B85179149B3BC10.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.15-17.27.16:056][639]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.15-17.27.16:056][639]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.15-17.27.16:056][639]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.15-17.27.16:495][665]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-17.27.16:513][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-17.27.16:513][665]PIE: New page: PIE session: FirstPersonExampleMap (Nov 15, 2020, 7:27:16 AM)
+[2020.11.15-17.27.16:513][665]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.27.16:525][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011391s)
+[2020.11.15-17.27.16:526][665]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-17.27.16:526][665]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C207A87400), frame # 325665
+[2020.11.15-17.27.16:527][665]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C2FF58F100), frame # 325665
+[2020.11.15-17.27.16:527][665]LogPlayLevel: PIE: World Init took: (0.002064s)
+[2020.11.15-17.27.16:527][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013657s)
+[2020.11.15-17.27.16:595][665]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.11.15-17.27.16:598][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-17.27.16:598][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-17.27.16:598][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-17.27.16:598][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-17.27.16:598][665]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-17.27.16:598][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-17.27.16:598][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-17.27.16:598][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-17.27.16:599][665]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-17.27.16:599][665]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-17.27.16:606][665]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-17.27.16:606][665]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-17.27.16:628][665]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-17.27.16:628][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-17.27.16:628][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-17.27.16:628][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-17.27.16:628][665]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-17.27.16:644][665]LogInit: FAudioDevice initialized.
+[2020.11.15-17.27.16:656][665]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-17.27.16:665][665]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.15-12.27.16
+[2020.11.15-17.27.16:666][665]LogWorld: Bringing up level for play took: 0.008184
+[2020.11.15-17.27.16:666][665]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.11.15-17.27.16:675][665]PIE: Server logged in
+[2020.11.15-17.27.16:676][665]PIE: Play in editor total start time 0.163 seconds.
+[2020.11.15-17.27.16:911][678]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.27.16:928][679]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_CharacterBase_C_0.CollisionCylinder
+[2020.11.15-17.27.18:563][777]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.27.20:714][906]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.27.23:980][102]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.27.25:913][218]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.27.27:563][317]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.27.29:714][446]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.27.32:982][642]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.27.34:914][758]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.27.36:564][857]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.27.38:715][986]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.27.39:281][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.27.39:281][ 18]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.27.39:281][ 18]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-17.27.39:282][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.27.39:295][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-17.27.39:303][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.27.39:357][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.27.39:380][ 18]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C2FF58F100), frame # 327018
+[2020.11.15-17.27.39:380][ 18]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C207A87400), frame # 327018
+[2020.11.15-17.27.39:386][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.11.15-17.27.39:434][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.11.15-17.28.09:809][829]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-17.28.09:829][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-17.28.09:830][829]PIE: New page: PIE session: FirstPersonExampleMap (Nov 15, 2020, 7:28:09 AM)
+[2020.11.15-17.28.09:830][829]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.28.09:845][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015239s)
+[2020.11.15-17.28.09:847][829]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-17.28.09:847][829]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C281FCCE00), frame # 328829
+[2020.11.15-17.28.09:847][829]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C2081996C0), frame # 328829
+[2020.11.15-17.28.09:847][829]LogPlayLevel: PIE: World Init took: (0.001802s)
+[2020.11.15-17.28.09:847][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017332s)
+[2020.11.15-17.28.09:919][829]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2020.11.15-17.28.09:921][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-17.28.09:921][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-17.28.09:922][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-17.28.09:922][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-17.28.09:922][829]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-17.28.09:922][829]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-17.28.09:922][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-17.28.09:922][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-17.28.09:922][829]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-17.28.09:922][829]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-17.28.09:931][829]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-17.28.09:931][829]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-17.28.09:951][829]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-17.28.09:951][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-17.28.09:951][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-17.28.09:951][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-17.28.09:952][829]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-17.28.09:967][829]LogInit: FAudioDevice initialized.
+[2020.11.15-17.28.09:979][829]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-17.28.09:988][829]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.15-12.28.09
+[2020.11.15-17.28.09:988][829]LogWorld: Bringing up level for play took: 0.007932
+[2020.11.15-17.28.09:989][829]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.11.15-17.28.09:999][829]PIE: Server logged in
+[2020.11.15-17.28.10:000][829]PIE: Play in editor total start time 0.171 seconds.
+[2020.11.15-17.28.10:239][842]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_CharacterBase_C_0.CollisionCylinder
+[2020.11.15-17.28.10:239][842]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.28.11:873][940]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.28.11:972][946]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_CharacterBase_C_0.CollisionCylinder
+[2020.11.15-17.28.14:023][ 69]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.28.15:906][182]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_CharacterBase_C_0.CollisionCylinder
+[2020.11.15-17.28.17:306][266]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.28.17:306][266]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_CharacterBase_C_0.CollisionCylinder
+[2020.11.15-17.28.19:240][382]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_CharacterBase_C_0.CollisionCylinder
+[2020.11.15-17.28.19:240][382]LogBlueprintUserMessages: [BP_Enemy_2] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.28.19:741][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.28.19:741][410]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.28.19:741][410]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-17.28.19:741][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.28.19:753][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-17.28.19:762][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.28.19:817][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.28.19:840][410]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C2081996C0), frame # 329410
+[2020.11.15-17.28.19:840][410]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C281FCCE00), frame # 329410
+[2020.11.15-17.28.19:846][410]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.11.15-17.28.19:894][411]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.11.15-17.30.15:148][193]BlueprintLog: New page: Compile BP_CharacterBase
+[2020.11.15-17.30.15:293][193]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2020.11.15-17.30.16:437][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_CharacterBase" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset" SILENT=true
+[2020.11.15-17.30.16:469][255]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/BP_CharacterBase272D49B44AFF12F8AFFC4092BFF2731F.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2020.11.15-17.30.16:504][255]AssetCheck: New page: Asset Save: BP_CharacterBase
+[2020.11.15-17.30.16:504][255]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2020.11.15-17.30.18:989][397]LogUObjectHash: Compacting FUObjectHashTables data took  10.37ms
+[2020.11.15-17.30.19:023][397]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap87FF24884B2AE5A708D58E9AE5219404.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.11.15-17.30.19:024][397]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap', retrying in .5s...
+[2020.11.15-17.30.19:526][397]LogFileManager: Warning: DeleteFile recovered during retry!
+[2020.11.15-17.30.20:433][397]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap_BuiltData52CABE3747E468B6F88C04AA28249002.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.15-17.30.20:470][397]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.15-17.30.20:470][397]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.15-17.30.20:471][397]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.15-17.30.22:406][512]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-17.30.22:424][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-17.30.22:424][512]PIE: New page: PIE session: FirstPersonExampleMap (Nov 15, 2020, 7:30:22 AM)
+[2020.11.15-17.30.22:425][512]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.30.22:440][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015638s)
+[2020.11.15-17.30.22:443][512]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-17.30.22:444][512]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C281FCE200), frame # 336512
+[2020.11.15-17.30.22:444][512]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C2FE8CE700), frame # 336512
+[2020.11.15-17.30.22:444][512]LogPlayLevel: PIE: World Init took: (0.003572s)
+[2020.11.15-17.30.22:444][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019542s)
+[2020.11.15-17.30.22:522][512]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2020.11.15-17.30.22:525][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-17.30.22:525][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-17.30.22:525][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-17.30.22:525][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-17.30.22:525][512]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-17.30.22:525][512]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-17.30.22:525][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-17.30.22:525][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-17.30.22:526][512]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-17.30.22:526][512]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-17.30.22:535][512]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-17.30.22:535][512]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-17.30.22:560][512]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-17.30.22:560][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-17.30.22:560][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-17.30.22:560][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-17.30.22:560][512]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-17.30.22:578][512]LogInit: FAudioDevice initialized.
+[2020.11.15-17.30.22:588][512]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-17.30.22:598][512]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.15-12.30.22
+[2020.11.15-17.30.22:598][512]LogWorld: Bringing up level for play took: 0.008993
+[2020.11.15-17.30.22:599][512]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.11.15-17.30.22:609][512]PIE: Server logged in
+[2020.11.15-17.30.22:610][512]PIE: Play in editor total start time 0.186 seconds.
+[2020.11.15-17.30.29:113][898]LogTemp: Warning: Ouch, I took some damage, now my health is : 180.000000
+[2020.11.15-17.30.29:196][903]LogTemp: Warning: Ouch, I took some damage, now my health is : 160.000000
+[2020.11.15-17.30.30:880][  4]LogTemp: Warning: Ouch, I took some damage, now my health is : 140.000000
+[2020.11.15-17.30.30:963][  9]LogTemp: Warning: Ouch, I took some damage, now my health is : 120.000000
+[2020.11.15-17.30.32:129][ 79]LogTemp: Warning: Ouch, I took some damage, now my health is : 100.000000
+[2020.11.15-17.30.32:213][ 84]LogTemp: Warning: Ouch, I took some damage, now my health is : 80.000000
+[2020.11.15-17.30.33:261][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.30.33:261][145]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.30.33:261][145]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-17.30.33:262][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.30.33:271][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-17.30.33:279][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.30.33:339][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.30.33:369][145]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C2FE8CE700), frame # 337145
+[2020.11.15-17.30.33:369][145]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C281FCE200), frame # 337145
+[2020.11.15-17.30.33:375][145]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.11.15-17.30.33:421][146]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.11.15-17.31.06:391][ 53]BlueprintLog: New page: Compile BP_CharacterBase
+[2020.11.15-17.31.06:553][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2020.11.15-17.31.07:104][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/BP_CharacterBase" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset" SILENT=true
+[2020.11.15-17.31.07:138][ 78]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/BP_CharacterBase1A39A02B49770A120D25598D87DE3F6D.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2020.11.15-17.31.07:166][ 78]AssetCheck: New page: Asset Save: BP_CharacterBase
+[2020.11.15-17.31.07:166][ 78]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2020.11.15-17.31.17:656][704]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-17.31.17:675][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-17.31.17:675][704]PIE: New page: PIE session: FirstPersonExampleMap (Nov 15, 2020, 7:31:17 AM)
+[2020.11.15-17.31.17:711][704]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.31.17:727][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016293s)
+[2020.11.15-17.31.17:729][704]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-17.31.17:729][704]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C2A2150600), frame # 339704
+[2020.11.15-17.31.17:729][704]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C2C87AA980), frame # 339704
+[2020.11.15-17.31.17:729][704]LogPlayLevel: PIE: World Init took: (0.001832s)
+[2020.11.15-17.31.17:729][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018353s)
+[2020.11.15-17.31.17:803][704]LogUObjectHash: Compacting FUObjectHashTables data took  10.09ms
+[2020.11.15-17.31.17:805][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-17.31.17:805][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-17.31.17:805][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-17.31.17:805][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-17.31.17:805][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-17.31.17:805][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-17.31.17:805][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-17.31.17:805][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-17.31.17:806][704]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-17.31.17:806][704]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-17.31.17:816][704]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-17.31.17:816][704]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-17.31.17:836][704]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-17.31.17:836][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-17.31.17:836][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-17.31.17:836][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-17.31.17:837][704]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-17.31.17:854][704]LogInit: FAudioDevice initialized.
+[2020.11.15-17.31.17:863][704]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-17.31.17:872][704]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.15-12.31.17
+[2020.11.15-17.31.17:872][704]LogWorld: Bringing up level for play took: 0.008452
+[2020.11.15-17.31.17:873][704]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.11.15-17.31.17:881][704]PIE: Server logged in
+[2020.11.15-17.31.17:882][704]PIE: Play in editor total start time 0.209 seconds.
+[2020.11.15-17.31.28:349][331]LogTemp: Warning: Ouch, I took some damage, now my health is : 180.000000
+[2020.11.15-17.31.28:349][331]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.28:567][344]LogTemp: Warning: Ouch, I took some damage, now my health is : 160.000000
+[2020.11.15-17.31.28:567][344]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.32:516][581]LogTemp: Warning: Ouch, I took some damage, now my health is : 140.000000
+[2020.11.15-17.31.32:516][581]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.32:599][586]LogTemp: Warning: Ouch, I took some damage, now my health is : 120.000000
+[2020.11.15-17.31.32:599][586]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.33:883][663]LogTemp: Warning: Ouch, I took some damage, now my health is : 100.000000
+[2020.11.15-17.31.33:883][663]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.33:967][668]LogTemp: Warning: Ouch, I took some damage, now my health is : 80.000000
+[2020.11.15-17.31.33:967][668]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.36:150][799]LogTemp: Warning: Ouch, I took some damage, now my health is : 60.000000
+[2020.11.15-17.31.36:150][799]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.37:750][895]LogTemp: Warning: Ouch, I took some damage, now my health is : 40.000000
+[2020.11.15-17.31.37:750][895]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.40:784][ 77]LogTemp: Warning: Ouch, I took some damage, now my health is : 20.000000
+[2020.11.15-17.31.40:784][ 77]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.40:884][ 83]LogTemp: Warning: Ouch, I took some damage, now my health is : 0.000000
+[2020.11.15-17.31.40:884][ 83]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.43:418][235]LogTemp: Warning: Ouch, I took some damage, now my health is : -20.000000
+[2020.11.15-17.31.43:418][235]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.43:500][240]LogTemp: Warning: Ouch, I took some damage, now my health is : -40.000000
+[2020.11.15-17.31.43:500][240]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.45:617][367]LogTemp: Warning: Ouch, I took some damage, now my health is : -60.000000
+[2020.11.15-17.31.45:618][367]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.31.47:422][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.31.47:422][473]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.31.47:423][473]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-17.31.47:423][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.31.47:433][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-17.31.47:443][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.31.47:532][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.31.47:532][473]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C2C87AA980), frame # 341473
+[2020.11.15-17.31.47:533][473]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C2A2150600), frame # 341473
+[2020.11.15-17.31.47:539][473]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.11.15-17.31.47:588][474]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.11.15-17.31.57:483][ 62]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-17.31.57:503][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-17.31.57:503][ 62]PIE: New page: PIE session: FirstPersonExampleMap (Nov 15, 2020, 7:31:57 AM)
+[2020.11.15-17.31.57:503][ 62]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.31.57:520][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017311s)
+[2020.11.15-17.31.57:522][ 62]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-17.31.57:522][ 62]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C285371C00), frame # 342062
+[2020.11.15-17.31.57:522][ 62]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C2F739DF80), frame # 342062
+[2020.11.15-17.31.57:522][ 62]LogPlayLevel: PIE: World Init took: (0.001726s)
+[2020.11.15-17.31.57:522][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019273s)
+[2020.11.15-17.31.57:597][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   8.59ms
+[2020.11.15-17.31.57:601][ 62]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-17.31.57:601][ 62]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-17.31.57:601][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-17.31.57:601][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-17.31.57:601][ 62]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-17.31.57:601][ 62]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-17.31.57:601][ 62]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-17.31.57:601][ 62]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-17.31.57:602][ 62]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-17.31.57:602][ 62]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-17.31.57:611][ 62]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-17.31.57:611][ 62]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-17.31.57:632][ 62]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-17.31.57:633][ 62]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-17.31.57:633][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-17.31.57:633][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-17.31.57:633][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-17.31.57:647][ 62]LogInit: FAudioDevice initialized.
+[2020.11.15-17.31.57:659][ 62]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-17.31.57:668][ 62]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.15-12.31.57
+[2020.11.15-17.31.57:669][ 62]LogWorld: Bringing up level for play took: 0.009096
+[2020.11.15-17.31.57:669][ 62]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.11.15-17.31.57:679][ 62]PIE: Server logged in
+[2020.11.15-17.31.57:680][ 62]PIE: Play in editor total start time 0.179 seconds.
+[2020.11.15-17.32.02:151][329]LogTemp: Warning: Ouch, I took some damage, now my health is : 180.000000
+[2020.11.15-17.32.02:152][329]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.32.02:235][334]LogTemp: Warning: Ouch, I took some damage, now my health is : 160.000000
+[2020.11.15-17.32.02:235][334]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.32.04:218][453]LogTemp: Warning: Ouch, I took some damage, now my health is : 140.000000
+[2020.11.15-17.32.04:218][453]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.32.04:302][458]LogTemp: Warning: Ouch, I took some damage, now my health is : 120.000000
+[2020.11.15-17.32.04:302][458]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.32.14:085][ 45]LogTemp: Warning: Ouch, I took some damage, now my health is : 100.000000
+[2020.11.15-17.32.14:085][ 45]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.32.14:168][ 50]LogTemp: Warning: Ouch, I took some damage, now my health is : 80.000000
+[2020.11.15-17.32.14:168][ 50]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.32.15:183][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.32.15:183][109]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.32.15:183][109]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-17.32.15:183][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.32.15:191][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-17.32.15:200][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.32.15:255][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.32.15:278][109]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C2F739DF80), frame # 343109
+[2020.11.15-17.32.15:278][109]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C285371C00), frame # 343109
+[2020.11.15-17.32.15:285][109]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2020.11.15-17.32.15:328][110]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.11.15-17.33.15:503][441]BlueprintLog: New page: Compile GA_Melee
+[2020.11.15-17.33.15:578][441]LogUObjectHash: Compacting FUObjectHashTables data took   8.98ms
+[2020.11.15-17.33.16:029][464]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/GA_MeleeD1767C7949AD8DC18F399984439AB48D.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Abilities/Melee/GA_Melee.uasset'
+[2020.11.15-17.33.16:066][464]AssetCheck: New page: Asset Save: GA_Melee
+[2020.11.15-17.33.16:066][464]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/Abilities/Melee/GA_Melee.GA_Melee
+[2020.11.15-17.33.19:538][660]LogUObjectHash: Compacting FUObjectHashTables data took  10.85ms
+[2020.11.15-17.33.19:581][660]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap914376C342681CB8878E0095877A6478.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2020.11.15-17.33.19:582][660]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap', retrying in .5s...
+[2020.11.15-17.33.20:084][660]LogFileManager: Warning: DeleteFile recovered during retry!
+[2020.11.15-17.33.21:050][660]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/FirstPersonExampleMap_BuiltData53AE3AE84B32E76C2C733C816E8033E1.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.15-17.33.21:094][660]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.15-17.33.21:095][660]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.15-17.33.21:095][660]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.15-17.33.23:578][808]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-17.33.23:598][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-17.33.23:598][808]PIE: New page: PIE session: FirstPersonExampleMap (Nov 15, 2020, 7:33:23 AM)
+[2020.11.15-17.33.23:598][808]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.33.23:611][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012838s)
+[2020.11.15-17.33.23:612][808]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-17.33.23:612][808]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C2E0F95E00), frame # 344808
+[2020.11.15-17.33.23:612][808]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C2F4325800), frame # 344808
+[2020.11.15-17.33.23:613][808]LogPlayLevel: PIE: World Init took: (0.001699s)
+[2020.11.15-17.33.23:613][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014710s)
+[2020.11.15-17.33.23:680][808]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.11.15-17.33.23:684][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-17.33.23:684][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-17.33.23:684][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-17.33.23:684][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-17.33.23:684][808]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-17.33.23:684][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-17.33.23:684][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-17.33.23:684][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-17.33.23:685][808]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-17.33.23:685][808]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-17.33.23:694][808]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-17.33.23:694][808]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-17.33.23:717][808]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-17.33.23:718][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-17.33.23:718][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-17.33.23:718][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-17.33.23:718][808]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-17.33.23:734][808]LogInit: FAudioDevice initialized.
+[2020.11.15-17.33.23:741][808]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-17.33.23:750][808]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.15-12.33.23
+[2020.11.15-17.33.23:751][808]LogWorld: Bringing up level for play took: 0.008660
+[2020.11.15-17.33.23:751][808]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.11.15-17.33.23:761][808]PIE: Server logged in
+[2020.11.15-17.33.23:763][808]PIE: Play in editor total start time 0.165 seconds.
+[2020.11.15-17.33.28:333][ 81]LogTemp: Warning: Ouch, I took some damage, now my health is : 180.000000
+[2020.11.15-17.33.28:333][ 81]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.29:985][177]LogTemp: Warning: Ouch, I took some damage, now my health is : 160.000000
+[2020.11.15-17.33.29:985][177]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.31:136][246]LogTemp: Warning: Ouch, I took some damage, now my health is : 140.000000
+[2020.11.15-17.33.31:136][246]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.32:052][301]LogTemp: Warning: Ouch, I took some damage, now my health is : 120.000000
+[2020.11.15-17.33.32:052][301]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.33:035][360]LogTemp: Warning: Ouch, I took some damage, now my health is : 100.000000
+[2020.11.15-17.33.33:035][360]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.33:785][405]LogTemp: Warning: Ouch, I took some damage, now my health is : 80.000000
+[2020.11.15-17.33.33:785][405]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.34:569][452]LogTemp: Warning: Ouch, I took some damage, now my health is : 60.000000
+[2020.11.15-17.33.34:569][452]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.35:652][517]LogTemp: Warning: Ouch, I took some damage, now my health is : 40.000000
+[2020.11.15-17.33.35:652][517]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.36:386][561]LogTemp: Warning: Ouch, I took some damage, now my health is : 20.000000
+[2020.11.15-17.33.36:386][561]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.37:169][608]LogTemp: Warning: Ouch, I took some damage, now my health is : 0.000000
+[2020.11.15-17.33.37:169][608]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.37:952][655]LogTemp: Warning: Ouch, I took some damage, now my health is : -20.000000
+[2020.11.15-17.33.37:952][655]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.42:035][900]LogTemp: Warning: Ouch, I took some damage, now my health is : -40.000000
+[2020.11.15-17.33.42:035][900]LogBlueprintUserMessages: [BP_CharacterBase_C_0] BP_Enemy_2.CollisionCylinder
+[2020.11.15-17.33.44:903][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.33.44:903][ 70]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-17.33.44:903][ 70]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-17.33.44:904][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.33.44:915][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-17.33.44:924][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-17.33.44:980][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-17.33.45:004][ 70]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C2F4325800), frame # 346070
+[2020.11.15-17.33.45:004][ 70]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C2E0F95E00), frame # 346070
+[2020.11.15-17.33.45:013][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2020.11.15-17.33.45:074][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_37
