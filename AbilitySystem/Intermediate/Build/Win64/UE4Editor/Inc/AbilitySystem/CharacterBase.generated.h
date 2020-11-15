@@ -8,6 +8,7 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class ACharacterBase;
 class UGameplayAbility;
 #ifdef ABILITYSYSTEM_CharacterBase_generated_h
 #error "CharacterBase.generated.h already included, missing '#pragma once' in CharacterBase.h"
@@ -17,12 +18,14 @@ class UGameplayAbility;
 #define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_SPARSE_DATA
 #define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execIsOtherHostile); \
 	DECLARE_FUNCTION(execOnHealthChanged); \
 	DECLARE_FUNCTION(execAquireAbility);
 
 
 #define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execIsOtherHostile); \
 	DECLARE_FUNCTION(execOnHealthChanged); \
 	DECLARE_FUNCTION(execAquireAbility);
 
