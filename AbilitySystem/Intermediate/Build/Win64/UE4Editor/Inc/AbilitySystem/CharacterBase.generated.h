@@ -17,14 +17,25 @@ class UGameplayAbility;
 #define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_SPARSE_DATA
 #define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execOnHealthChanged); \
 	DECLARE_FUNCTION(execAquireAbility);
 
 
 #define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execOnHealthChanged); \
 	DECLARE_FUNCTION(execAquireAbility);
 
 
+#define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_EVENT_PARMS \
+	struct CharacterBase_eventBP_OnHealthChanged_Parms \
+	{ \
+		float Health; \
+		float MaxHealth; \
+	};
+
+
+#define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_CALLBACK_WRAPPERS
 #define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACharacterBase(); \
@@ -70,13 +81,17 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ACharacterBase); \
 
 
 #define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_PRIVATE_PROPERTY_OFFSET
-#define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_14_PROLOG
+#define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_14_PROLOG \
+	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_EVENT_PARMS
+
+
 #define AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_PRIVATE_PROPERTY_OFFSET \
 	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_SPARSE_DATA \
 	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_RPC_WRAPPERS \
+	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_CALLBACK_WRAPPERS \
 	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_INCLASS \
 	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_STANDARD_CONSTRUCTORS \
 public: \
@@ -89,6 +104,7 @@ public: \
 	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_PRIVATE_PROPERTY_OFFSET \
 	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_SPARSE_DATA \
 	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_CALLBACK_WRAPPERS \
 	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_INCLASS_NO_PURE_DECLS \
 	AbilitySystem_Source_AbilitySystem_Public_CharacterBase_h_17_ENHANCED_CONSTRUCTORS \
 private: \

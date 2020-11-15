@@ -23,6 +23,15 @@ void EmptyLinkFunctionForGeneratedCodeCharacterBase() {}
 	GAMEPLAYABILITIES_API UClass* Z_Construct_UClass_UAbilitySystemComponent_NoRegister();
 	GAMEPLAYABILITIES_API UClass* Z_Construct_UClass_UAbilitySystemInterface_NoRegister();
 // End Cross Module References
+	DEFINE_FUNCTION(ACharacterBase::execOnHealthChanged)
+	{
+		P_GET_PROPERTY(FFloatProperty,Z_Param_Health);
+		P_GET_PROPERTY(FFloatProperty,Z_Param_MaxHealth);
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->OnHealthChanged(Z_Param_Health,Z_Param_MaxHealth);
+		P_NATIVE_END;
+	}
 	DEFINE_FUNCTION(ACharacterBase::execAquireAbility)
 	{
 		P_GET_OBJECT(UClass,Z_Param_AbilityToAquire);
@@ -31,11 +40,20 @@ void EmptyLinkFunctionForGeneratedCodeCharacterBase() {}
 		P_THIS->AquireAbility(Z_Param_AbilityToAquire);
 		P_NATIVE_END;
 	}
+	static FName NAME_ACharacterBase_BP_OnHealthChanged = FName(TEXT("BP_OnHealthChanged"));
+	void ACharacterBase::BP_OnHealthChanged(float Health, float MaxHealth)
+	{
+		CharacterBase_eventBP_OnHealthChanged_Parms Parms;
+		Parms.Health=Health;
+		Parms.MaxHealth=MaxHealth;
+		ProcessEvent(FindFunctionChecked(NAME_ACharacterBase_BP_OnHealthChanged),&Parms);
+	}
 	void ACharacterBase::StaticRegisterNativesACharacterBase()
 	{
 		UClass* Class = ACharacterBase::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "AquireAbility", &ACharacterBase::execAquireAbility },
+			{ "OnHealthChanged", &ACharacterBase::execOnHealthChanged },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 	}
@@ -72,6 +90,75 @@ void EmptyLinkFunctionForGeneratedCodeCharacterBase() {}
 		}
 		return ReturnFunction;
 	}
+	struct Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics
+	{
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_MaxHealth;
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Health;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::NewProp_MaxHealth = { "MaxHealth", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(CharacterBase_eventBP_OnHealthChanged_Parms, MaxHealth), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::NewProp_Health = { "Health", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(CharacterBase_eventBP_OnHealthChanged_Parms, Health), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::NewProp_MaxHealth,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::NewProp_Health,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::Function_MetaDataParams[] = {
+		{ "Category", "CharacterBase" },
+		{ "DisplayName", "OnHealthChanged" },
+		{ "ModuleRelativePath", "Public/CharacterBase.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacterBase, nullptr, "BP_OnHealthChanged", nullptr, nullptr, sizeof(CharacterBase_eventBP_OnHealthChanged_Parms), Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics
+	{
+		struct CharacterBase_eventOnHealthChanged_Parms
+		{
+			float Health;
+			float MaxHealth;
+		};
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_MaxHealth;
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Health;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::NewProp_MaxHealth = { "MaxHealth", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(CharacterBase_eventOnHealthChanged_Parms, MaxHealth), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::NewProp_Health = { "Health", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(CharacterBase_eventOnHealthChanged_Parms, Health), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::NewProp_MaxHealth,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::NewProp_Health,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Public/CharacterBase.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ACharacterBase, nullptr, "OnHealthChanged", nullptr, nullptr, sizeof(CharacterBase_eventOnHealthChanged_Parms), Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ACharacterBase_OnHealthChanged()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ACharacterBase_OnHealthChanged_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_ACharacterBase_NoRegister()
 	{
 		return ACharacterBase::StaticClass();
@@ -102,6 +189,8 @@ void EmptyLinkFunctionForGeneratedCodeCharacterBase() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ACharacterBase_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_ACharacterBase_AquireAbility, "AquireAbility" }, // 1699721847
+		{ &Z_Construct_UFunction_ACharacterBase_BP_OnHealthChanged, "BP_OnHealthChanged" }, // 3963305701
+		{ &Z_Construct_UFunction_ACharacterBase_OnHealthChanged, "OnHealthChanged" }, // 1758876258
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACharacterBase_Statics::Class_MetaDataParams[] = {
@@ -160,7 +249,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacterBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACharacterBase, 3921360736);
+	IMPLEMENT_CLASS(ACharacterBase, 608366911);
 	template<> ABILITYSYSTEM_API UClass* StaticClass<ACharacterBase>()
 	{
 		return ACharacterBase::StaticClass();
