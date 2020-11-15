@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Ability System\\AbilitySystem\\Source\\AbilitySystem\\AbilitySystem.Build.cs",
+		"D:\\Projects\\Ability System\\AbilitySystem\\Source\\AbilitySystem.Target.cs",
+		"D:\\Projects\\Ability System\\AbilitySystem\\Source\\AbilitySystemEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

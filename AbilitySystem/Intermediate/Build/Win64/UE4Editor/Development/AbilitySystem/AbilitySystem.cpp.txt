@@ -1,0 +1,2 @@
+D:\Projects\Ability System\AbilitySystem\Intermediate\Build\Win64\UE4Editor\Development\AbilitySystem\Definitions.AbilitySystem.h
+D:\Projects\Ability System\AbilitySystem\Source\AbilitySystem\AbilitySystem.h
