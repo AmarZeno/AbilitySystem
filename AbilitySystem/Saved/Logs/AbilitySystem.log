@@ -871,3 +871,60 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.15-01.57.27:619][320]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.15-01.57.27:619][320]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.11.15-01.57.27:619][320]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.15-01.58.07:373][  4]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.11.15-01.58.14:527][  4]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.11.15-01.58.33:343][127]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Characters/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-01.58.33:554][127]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.11.15-01.58.34:264][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.15-01.58.34:318][127]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0011 seconds. Added 1 classes and 0 folders.
+[2020.11.15-01.58.34:889][127]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.15-01.58.35:834][127]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2020.11.15-01.59.26:871][129]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-01.59.27:255][129]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.11.15-01.59.53:397][638]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-01.59.53:557][638]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.11.15-01.59.54:293][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/ABP_Shinbi" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset" SILENT=true
+[2020.11.15-01.59.54:312][676]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiD40770954A7AADE6CDB323ACFA7DE338.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset'
+[2020.11.15-01.59.54:383][676]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-01.59.54:383][676]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-02.00.29:949][755]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2020.11.15-02.00.32:794][893]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-02.00.32:794][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-02.00.56:521][153]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-02.00.56:578][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.11.15-02.00.57:616][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/ABP_Shinbi" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset" SILENT=true
+[2020.11.15-02.00.57:646][211]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiD5F235FB4A99EED80574EFA97FB6A6EA.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset'
+[2020.11.15-02.00.57:669][211]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-02.00.57:669][211]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-02.01.22:068][124]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-02.01.22:128][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.11.15-02.01.22:849][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/ABP_Shinbi" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset" SILENT=true
+[2020.11.15-02.01.22:870][163]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_Shinbi6690D9DB4AD0C3EE2C2D7C9C10406778.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset'
+[2020.11.15-02.01.22:893][163]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-02.01.22:893][163]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-02.03.43:297][266]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-02.03.43:355][266]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.11.15-02.03.48:816][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/ABP_Shinbi" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset" SILENT=true
+[2020.11.15-02.03.48:895][586]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiC62F1BC94A15ADCC5058E09792622E70.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset'
+[2020.11.15-02.03.48:926][586]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-02.03.48:926][586]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-02.09.33:476][176]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(329)].
+[2020.11.15-02.09.33:543][176]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.11.15-02.09.33:547][176]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.046
+[2020.11.15-02.09.33:548][176]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/ABP_Shinbi] ([1] browsable assets)...
+[2020.11.15-02.09.33:566][176]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Shinbi.ABP_Shinbi]
+[2020.11.15-02.09.33:566][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Shinbi]
+[2020.11.15-02.09.33:604][176]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_Shinbi_Auto16FC02302418725789F3A8ABFFB6D82EA.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Saved/Autosaves/Game/Blueprints/Characters/ABP_Shinbi_Auto1.uasset'
+[2020.11.15-02.09.33:605][176]LogFileHelpers: Auto-saving content packages took 0.058
+[2020.11.15-02.11.18:279][530]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-02.11.18:341][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.11.15-02.11.19:055][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/ABP_Shinbi" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset" SILENT=true
+[2020.11.15-02.11.19:079][568]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_Shinbi9AF6EBFC4444CCCD4E7202A2B731AA5E.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset'
+[2020.11.15-02.11.19:104][568]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-02.11.19:104][568]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-02.11.32:825][378]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-02.11.32:889][378]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2020.11.15-02.11.33:789][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/ABP_Shinbi" FILE="../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset" SILENT=true
+[2020.11.15-02.11.33:813][425]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiCCC51FB741C1C1CC3EAF3B97E288D793.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/ABP_Shinbi.uasset'
+[2020.11.15-02.11.33:833][425]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-02.11.33:833][425]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/ABP_Shinbi.ABP_Shinbi
