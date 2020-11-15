@@ -1952,3 +1952,295 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.15-03.26.48:299][130]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiD949F3BE452484395A00FE9E3B81F937.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ABP_Shinbi.uasset'
 [2020.11.15-03.26.48:318][130]AssetCheck: New page: Asset Save: ABP_Shinbi
 [2020.11.15-03.26.48:318][130]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/Animation/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-03.28.35:801][555]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-03.28.35:870][555]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.11.15-03.28.36:533][585]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiE7C2A9F640490A8689D14DA2D5A9046F.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ABP_Shinbi.uasset'
+[2020.11.15-03.28.36:555][585]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-03.28.36:555][585]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/Animation/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-03.29.25:787][455]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-03.29.26:117][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.11.15-03.29.27:708][541]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiB70B4DD34849C3FCAECA2BAA5E124585.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ABP_Shinbi.uasset'
+[2020.11.15-03.29.27:731][541]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-03.29.27:731][541]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/Animation/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-03.32.39:831][229]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.15-03.33.00:653][899]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-03.33.00:653][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-03.34.35:672][965]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/AM_Shinbi_Melee2CC964A14292A56B813ADBB9B6ACA361.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/AM_Shinbi_Melee.uasset'
+[2020.11.15-03.34.35:697][965]AssetCheck: New page: Asset Save: AM_Shinbi_Melee
+[2020.11.15-03.34.35:697][965]LogContentValidation: Display: Validating AnimMontage /Game/Blueprints/Characters/Animation/AM_Shinbi_Melee.AM_Shinbi_Melee
+[2020.11.15-03.35.59:584][ 96]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-03.35.59:672][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.11.15-03.36.00:280][121]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_Shinbi977B52FE42BD1A9EFF16B186907D539F.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ABP_Shinbi.uasset'
+[2020.11.15-03.36.00:303][121]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-03.36.00:303][121]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/Animation/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-03.36.06:445][483]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiCA5EC1E14480B78E79971EA64C1D1932.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ABP_Shinbi.uasset'
+[2020.11.15-03.36.06:471][483]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-03.36.06:471][483]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/Animation/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-03.36.25:153][342]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-03.36.25:220][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.11.15-03.36.26:208][390]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_Shinbi94D96ACD426F45D6858F128D169E0C22.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ABP_Shinbi.uasset'
+[2020.11.15-03.36.26:238][390]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-03.36.26:238][390]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/Animation/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-03.36.52:453][957]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-03.36.52:471][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-03.36.52:471][957]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 5:36:52 PM)
+[2020.11.15-03.36.52:471][957]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-03.36.52:485][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014375s)
+[2020.11.15-03.36.52:487][957]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-03.36.52:487][957]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002776877FC00), frame # 277957
+[2020.11.15-03.36.52:487][957]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002770CFFDD00), frame # 277957
+[2020.11.15-03.36.52:488][957]LogPlayLevel: PIE: World Init took: (0.002221s)
+[2020.11.15-03.36.52:488][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016863s)
+[2020.11.15-03.36.52:532][957]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.11.15-03.36.52:535][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-03.36.52:535][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-03.36.52:535][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-03.36.52:535][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-03.36.52:535][957]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-03.36.52:535][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-03.36.52:535][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-03.36.52:536][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-03.36.52:536][957]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-03.36.52:536][957]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-03.36.52:547][957]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-03.36.52:547][957]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-03.36.52:571][957]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-03.36.52:571][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-03.36.52:571][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-03.36.52:571][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-03.36.52:572][957]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-03.36.52:587][957]LogInit: FAudioDevice initialized.
+[2020.11.15-03.36.52:595][957]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-03.36.52:597][957]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-22.36.52
+[2020.11.15-03.36.52:597][957]LogWorld: Bringing up level for play took: 0.001240
+[2020.11.15-03.36.52:597][957]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.11.15-03.36.52:606][957]PIE: Server logged in
+[2020.11.15-03.36.52:607][957]PIE: Play in editor total start time 0.137 seconds.
+[2020.11.15-03.37.17:745][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-03.37.17:745][461]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-03.37.17:745][461]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-03.37.17:746][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-03.37.17:752][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-03.37.17:757][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-03.37.17:810][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-03.37.17:811][461]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002770CFFDD00), frame # 279461
+[2020.11.15-03.37.17:811][461]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002776877FC00), frame # 279461
+[2020.11.15-03.37.17:814][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.11.15-03.37.17:856][462]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.11.15-03.37.30:383][206]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-03.37.30:448][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.11.15-03.37.34:502][273]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-03.37.34:523][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-03.37.34:523][273]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 5:37:34 PM)
+[2020.11.15-03.37.34:523][273]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-03.37.34:538][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014525s)
+[2020.11.15-03.37.34:539][273]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-03.37.34:539][273]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027762507000), frame # 280273
+[2020.11.15-03.37.34:539][273]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002773C928E00), frame # 280273
+[2020.11.15-03.37.34:540][273]LogPlayLevel: PIE: World Init took: (0.002092s)
+[2020.11.15-03.37.34:540][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016881s)
+[2020.11.15-03.37.34:583][273]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2020.11.15-03.37.34:585][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-03.37.34:585][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-03.37.34:585][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-03.37.34:585][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-03.37.34:585][273]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-03.37.34:585][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-03.37.34:585][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-03.37.34:585][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-03.37.34:586][273]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-03.37.34:586][273]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-03.37.34:594][273]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-03.37.34:594][273]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-03.37.34:615][273]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-03.37.34:615][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-03.37.34:615][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-03.37.34:615][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-03.37.34:615][273]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-03.37.34:630][273]LogInit: FAudioDevice initialized.
+[2020.11.15-03.37.34:663][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-03.37.34:664][273]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-03.37.34:667][273]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-22.37.34
+[2020.11.15-03.37.34:668][273]LogWorld: Bringing up level for play took: 0.002866
+[2020.11.15-03.37.34:668][273]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.11.15-03.37.34:679][273]PIE: Server logged in
+[2020.11.15-03.37.34:680][273]PIE: Play in editor total start time 0.158 seconds.
+[2020.11.15-03.37.34:745][274]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.11.15-03.38.02:815][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-03.38.02:815][951]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-03.38.02:816][951]LogSlate: Window 'AbilitySystem Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.11.15-03.38.02:825][951]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-03.38.02:825][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-03.38.02:835][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-03.38.02:842][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-03.38.02:907][951]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002773C928E00), frame # 281951
+[2020.11.15-03.38.02:907][951]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027762507000), frame # 281951
+[2020.11.15-03.38.02:910][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.11.15-03.38.02:953][952]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.11.15-03.38.17:267][803]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/AM_Shinbi_MeleeB7BC023D43B4C4712734C9A090C4C834.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/AM_Shinbi_Melee.uasset'
+[2020.11.15-03.38.17:289][803]AssetCheck: New page: Asset Save: AM_Shinbi_Melee
+[2020.11.15-03.38.17:289][803]LogContentValidation: Display: Validating AnimMontage /Game/Blueprints/Characters/Animation/AM_Shinbi_Melee.AM_Shinbi_Melee
+[2020.11.15-03.38.19:819][952]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-03.38.19:840][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-03.38.19:840][952]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 5:38:19 PM)
+[2020.11.15-03.38.19:875][952]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-03.38.19:888][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013064s)
+[2020.11.15-03.38.19:889][952]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-03.38.19:889][952]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000276FE64AC00), frame # 282952
+[2020.11.15-03.38.19:889][952]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002773CA182C0), frame # 282952
+[2020.11.15-03.38.19:890][952]LogPlayLevel: PIE: World Init took: (0.001932s)
+[2020.11.15-03.38.19:890][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015276s)
+[2020.11.15-03.38.19:931][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.11.15-03.38.19:935][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-03.38.19:935][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-03.38.19:935][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-03.38.19:935][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-03.38.19:935][952]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-03.38.19:935][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-03.38.19:935][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-03.38.19:935][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-03.38.19:936][952]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-03.38.19:936][952]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-03.38.19:944][952]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-03.38.19:944][952]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-03.38.19:964][952]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-03.38.19:964][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-03.38.19:965][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-03.38.19:965][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-03.38.19:965][952]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-03.38.19:981][952]LogInit: FAudioDevice initialized.
+[2020.11.15-03.38.19:988][952]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-03.38.19:990][952]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-22.38.19
+[2020.11.15-03.38.19:990][952]LogWorld: Bringing up level for play took: 0.001122
+[2020.11.15-03.38.19:990][952]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.11.15-03.38.19:998][952]PIE: Server logged in
+[2020.11.15-03.38.19:999][952]PIE: Play in editor total start time 0.161 seconds.
+[2020.11.15-03.38.45:135][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-03.38.45:135][456]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-03.38.45:135][456]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-03.38.45:135][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-03.38.45:145][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-03.38.45:150][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-03.38.45:197][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-03.38.45:198][456]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002773CA182C0), frame # 284456
+[2020.11.15-03.38.45:198][456]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000276FE64AC00), frame # 284456
+[2020.11.15-03.38.45:201][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.11.15-03.38.45:241][457]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.11.15-03.39.10:038][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.11.15-03.39.10:039][599]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.041
+[2020.11.15-03.39.10:039][599]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonShinbi/Characters/Heroes/Shinbi/Meshes/Shinbi_Skeleton] ([1] browsable assets)...
+[2020.11.15-03.39.10:039][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonShinbi/Characters/Heroes/Shinbi/Meshes/Shinbi_Skeleton]
+[2020.11.15-03.39.10:065][599]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/Shinbi_Skeleton_Auto593FE43004158C75178A9F9A2DB17CE00.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Saved/Autosaves/Game/ParagonShinbi/Characters/Heroes/Shinbi/Meshes/Shinbi_Skeleton_Auto5.uasset'
+[2020.11.15-03.39.10:066][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animation/ABP_Shinbi] ([1] browsable assets)...
+[2020.11.15-03.39.10:091][599]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/Animation/ABP_Shinbi.ABP_Shinbi]
+[2020.11.15-03.39.10:091][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animation/ABP_Shinbi]
+[2020.11.15-03.39.10:152][599]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_Shinbi_Auto5BBDA82A044479F477847F2A818CF10B2.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Saved/Autosaves/Game/Blueprints/Characters/Animation/ABP_Shinbi_Auto5.uasset'
+[2020.11.15-03.39.10:153][599]LogFileHelpers: Auto-saving content packages took 0.115
+[2020.11.15-03.40.11:601][783]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-03.40.11:621][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-03.40.11:622][783]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 5:40:11 PM)
+[2020.11.15-03.40.11:622][783]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-03.40.11:637][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014830s)
+[2020.11.15-03.40.11:638][783]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-03.40.11:639][783]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000277173EA200), frame # 284783
+[2020.11.15-03.40.11:639][783]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027744911D00), frame # 284783
+[2020.11.15-03.40.11:640][783]LogPlayLevel: PIE: World Init took: (0.002766s)
+[2020.11.15-03.40.11:640][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017813s)
+[2020.11.15-03.40.11:681][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.11.15-03.40.11:683][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-03.40.11:683][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-03.40.11:683][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-03.40.11:683][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-03.40.11:683][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-03.40.11:683][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-03.40.11:683][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-03.40.11:683][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-03.40.11:684][783]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-03.40.11:684][783]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-03.40.11:696][783]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-03.40.11:696][783]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-03.40.11:721][783]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-03.40.11:721][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-03.40.11:721][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-03.40.11:721][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-03.40.11:722][783]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-03.40.11:737][783]LogInit: FAudioDevice initialized.
+[2020.11.15-03.40.11:746][783]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-03.40.11:748][783]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-22.40.11
+[2020.11.15-03.40.11:748][783]LogWorld: Bringing up level for play took: 0.001116
+[2020.11.15-03.40.11:748][783]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.11.15-03.40.11:757][783]PIE: Server logged in
+[2020.11.15-03.40.11:758][783]PIE: Play in editor total start time 0.137 seconds.
+[2020.11.15-03.40.50:826][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-03.40.50:826][122]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-03.40.50:826][122]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-03.40.50:827][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-03.40.50:839][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-03.40.50:843][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-03.40.50:874][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-03.40.50:896][122]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027744911D00), frame # 287122
+[2020.11.15-03.40.50:896][122]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000277173EA200), frame # 287122
+[2020.11.15-03.40.50:899][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.11.15-03.40.50:940][123]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.11.15-03.40.52:830][228]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiEB64B4FC4766FC5A9AE876A8473ECFC9.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ABP_Shinbi.uasset'
+[2020.11.15-03.40.52:859][228]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-03.40.52:859][228]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/Animation/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-03.42.32:507][496]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-03.42.32:572][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.11.15-03.42.33:157][520]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiB31A1B144B3A164CB65B09AC6BB020C4.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ABP_Shinbi.uasset'
+[2020.11.15-03.42.33:179][520]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-03.42.33:179][520]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/Animation/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-03.43.01:705][702]BlueprintLog: New page: Compile ABP_Shinbi
+[2020.11.15-03.43.01:772][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.11.15-03.43.02:591][742]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiF0FA76A44BD7C7AE5625409E77218CA2.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ABP_Shinbi.uasset'
+[2020.11.15-03.43.02:614][742]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-03.43.02:614][742]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/Animation/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-03.43.12:241][309]LogSavePackage: Moving '../../../../../Projects/Ability System/AbilitySystem/Saved/ABP_ShinbiDCB14C144887117C1AD3499E56831DC1.tmp' to '../../../../../Projects/Ability System/AbilitySystem/Content/Blueprints/Characters/Animation/ABP_Shinbi.uasset'
+[2020.11.15-03.43.12:264][309]AssetCheck: New page: Asset Save: ABP_Shinbi
+[2020.11.15-03.43.12:264][309]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/Characters/Animation/ABP_Shinbi.ABP_Shinbi
+[2020.11.15-03.43.14:052][415]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.15-03.43.14:069][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.15-03.43.14:069][415]PIE: New page: PIE session: FirstPersonExampleMap (Nov 14, 2020, 5:43:14 PM)
+[2020.11.15-03.43.14:106][415]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-03.43.14:119][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011992s)
+[2020.11.15-03.43.14:120][415]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.15-03.43.14:120][415]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002771785D600), frame # 294415
+[2020.11.15-03.43.14:120][415]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000277315AD580), frame # 294415
+[2020.11.15-03.43.14:121][415]LogPlayLevel: PIE: World Init took: (0.002010s)
+[2020.11.15-03.43.14:121][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014331s)
+[2020.11.15-03.43.14:161][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.11.15-03.43.14:165][415]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.15-03.43.14:165][415]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.15-03.43.14:165][415]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.15-03.43.14:165][415]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.15-03.43.14:165][415]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.15-03.43.14:165][415]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.15-03.43.14:165][415]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.15-03.43.14:165][415]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.15-03.43.14:166][415]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.15-03.43.14:166][415]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.15-03.43.14:174][415]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.15-03.43.14:174][415]LogAudioMixer: Display: 1: FrontRight
+[2020.11.15-03.43.14:194][415]LogAudioMixer: Display: Using Audio Device DELL S2715H (NVIDIA High Definition Audio)
+[2020.11.15-03.43.14:194][415]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.15-03.43.14:194][415]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.15-03.43.14:194][415]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.15-03.43.14:195][415]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.15-03.43.14:212][415]LogInit: FAudioDevice initialized.
+[2020.11.15-03.43.14:221][415]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.15-03.43.14:223][415]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.14-22.43.14
+[2020.11.15-03.43.14:223][415]LogWorld: Bringing up level for play took: 0.001462
+[2020.11.15-03.43.14:223][415]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.11.15-03.43.14:232][415]PIE: Server logged in
+[2020.11.15-03.43.14:233][415]PIE: Play in editor total start time 0.165 seconds.
+[2020.11.15-03.43.51:647][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-03.43.51:647][656]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.15-03.43.51:647][656]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.15-03.43.51:648][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-03.43.51:658][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.15-03.43.51:663][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.15-03.43.51:717][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.15-03.43.51:718][656]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000277315AD580), frame # 296656
+[2020.11.15-03.43.51:718][656]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002771785D600), frame # 296656
+[2020.11.15-03.43.51:721][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.11.15-03.43.51:767][657]LogPlayLevel: Display: Destroying online subsystem :Context_43
